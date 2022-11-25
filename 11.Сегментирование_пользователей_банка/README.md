@@ -3,6 +3,9 @@
 ## Цель исследования
 Выявить признаки, которые влияют на отток, сегментировать пользователей банка по количеству продуктов и дать рекомендации по удержанию этих сегментов.
 
+## Проект с полной визуализацией
+[**Ссылка**](https://drive.google.com/file/d/1MnDK5OYkmlOMhcYYx5aagCmki4SyNBcB/view?usp=sharing)
+
 ## Презентация
 [**Ссылка**](https://drive.google.com/file/d/1b3BrG9QYZJpMUZZacZXjlACkU3mhnoOi/view?usp=sharing)
 

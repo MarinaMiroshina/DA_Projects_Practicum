@@ -3,6 +3,9 @@
 ## Цель исследования
 Оценить текущее положение объектов общественного питания и дать рекомендации для открытия заведения с роботами-официантами.
 
+## Проект с полной визуализацией
+[**Ссылка**](https://drive.google.com/file/d/1swp7ePNjlfOHbv6SqlB6pvWIxhwOTquV/view?usp=sharing)
+
 ## Презентация
 [**Ссылка**](https://drive.google.com/file/d/1oQVqsaFxxWlojdOpvJVdNSNTFG2Xa1LF/view?usp=sharing)
 
